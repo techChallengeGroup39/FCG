@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapCloudGamesAPI", "FiapCloudGamesAPI\FiapCloudGamesAPI.csproj", "{9975C37F-03B9-4D0C-A11E-B8471ED011EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9975C37F-03B9-4D0C-A11E-B8471ED011EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9975C37F-03B9-4D0C-A11E-B8471ED011EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9975C37F-03B9-4D0C-A11E-B8471ED011EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9975C37F-03B9-4D0C-A11E-B8471ED011EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {991C7082-C373-4380-B675-0741F08C2046}
+	EndGlobalSection
+EndGlobal
