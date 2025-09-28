@@ -1,1 +1,13 @@
-﻿/.vs
+﻿# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
