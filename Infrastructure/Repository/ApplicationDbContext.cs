@@ -11,6 +11,10 @@ namespace Infrastructure.Repository
             _connectionString = connectionString;
         }
 
+        public ApplicationDbContext()
+        {
+        }
+
         /****** DbSets ******/
 
 
