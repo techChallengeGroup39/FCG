@@ -1,0 +1,6 @@
+C:\FIAP\FiapCloudGames\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\FIAP\FiapCloudGames\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\FiapCloudGames\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\FIAP\FiapCloudGames\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\FIAP\FiapCloudGames\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\FIAP\FiapCloudGames\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
